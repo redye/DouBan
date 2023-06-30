@@ -1,0 +1,4 @@
+enum BarStyle {
+  light,
+  dark,
+}
